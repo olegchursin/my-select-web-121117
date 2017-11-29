@@ -6,5 +6,6 @@ def my_select(array)
      new_array << array[i]
    i += 1
  end
+ end
  new_array
 end
